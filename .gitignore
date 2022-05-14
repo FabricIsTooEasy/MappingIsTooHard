@@ -1,0 +1,29 @@
+.gradle/
+*-merged.jar
+*-mapped.jar
+*-intermediary.jar
+*.DS_Store
+build/
+out/
+mappings_official/
+enigma.jar
+namedSrc/
+
+# idea
+.idea/
+*.iml
+*.iws
+*.ipr
+*.jar
+
+# eclipse
+.eclipse
+.classpath
+.project
+.settings/
+
+# vscode
+*.code-workspace
+enigma.sh
+/mappings-1.8.9.tiny
+/mappings-1.8.9

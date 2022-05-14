@@ -1,0 +1,26 @@
+#!/bin/bash
+
+mc_versions="1.6.4-MITE"
+echo "Available MC versions: ${mc_versions}"
+
+while [ true ]; do
+    echo -n "Enter the version you want to edit: "
+    read version
+
+    valid="F"
+    for i in ${mc_versions}; do
+        if [ "${i}" == "${version}" ]; then
+            valid="T"
+        fi
+    done
+
+    if [ "${valid}" == "F" ]; then
+        echo "Invalid MC version!"
+    else
+        break
+    fi
+done
+
+export MC_VERSION="${version}"
+echo "Starting Gradle with MC version ${MC_VERSION}..."
+./gradlew yarn
