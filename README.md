@@ -1,7 +1,5 @@
 # MITH (aka Mapping Is Too Hard)
 
-![Build](https://img.shields.io/github/workflow/status/FabricIsTooEasy/MappingIsTooHard/Build/1.6.4-MITE?label=Build) ![Publish](https://img.shields.io/github/workflow/status/FabricIsTooEasy/MappingIsTooHard/Publish/1.6.4-MITE?label=Publish)
-
 MITH is a set of open, unencumbered Minecraft mappings, free for everyone to use under the Creative Commons Zero license. The intention is to let 
 everyone mod Minecraft freely and openly, while also being able to innovate and process the mappings as they see fit.
 
