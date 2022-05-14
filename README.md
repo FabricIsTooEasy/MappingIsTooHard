@@ -1,6 +1,6 @@
 # MITH (aka Mapping Is Too Hard)
 
-[![This version of 'mith' @ Cloudsmith](https://api-prd.cloudsmith.io/v1/badges/version/fabricistooeasy/mith/maven/mith/1.6.4-MITE+build.202205141529/a=noarch;xg=io.github.fabricistooeasy/?render=true)](https://cloudsmith.io/~fabricistooeasy/repos/mith/packages/detail/maven/mith/1.6.4-MITE+build.202205141529/a=noarch;xg=io.github.fabricistooeasy/)
+[![Latest version of 'mith' @ Cloudsmith](https://api-prd.cloudsmith.io/v1/badges/version/fabricistooeasy/mith/maven/mith/latest/a=noarch;xg=io.github.fabricistooeasy/?render=true&show_latest=true)](https://cloudsmith.io/~fabricistooeasy/repos/mith/packages/detail/maven/mith/latest/a=noarch;xg=io.github.fabricistooeasy/)
 
 MITH is a set of open, unencumbered Minecraft mappings, free for everyone to use under the Creative Commons Zero license. The intention is to let 
 everyone mod Minecraft freely and openly, while also being able to innovate and process the mappings as they see fit.
