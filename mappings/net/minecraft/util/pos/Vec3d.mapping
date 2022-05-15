@@ -1,0 +1,8 @@
+CLASS net/minecraft/class_781 net/minecraft/util/pos/Vec3d
+	FIELD field_1329 x D
+	FIELD field_1330 y D
+	FIELD field_1331 z D
+	METHOD method_1366 of (DDD)Lnet/minecraft/class_781;
+		ARG 0 x
+		ARG 2 y
+		ARG 4 z

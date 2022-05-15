@@ -1,1 +1,2 @@
 CLASS net/minecraft/class_355 net/minecraft/world/World
+	FIELD field_176 isClient Z

@@ -1,1 +1,5 @@
 CLASS net/minecraft/class_1823 net/minecraft/item/Item
+	FIELD field_5651 IRON_SHOVEL Lnet/minecraft/class_1823;
+	FIELD field_5652 IRON_PICKAXE Lnet/minecraft/class_1823;
+	FIELD field_5653 IRON_AXE Lnet/minecraft/class_1823;
+	FIELD field_5654 FLINT_AND_STEEL Lnet/minecraft/class_1823;
